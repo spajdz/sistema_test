@@ -1,0 +1,336 @@
+2018-07-04 14:41:44 Error: Fatal Error (1): Class 'AppHelper' not found in [C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\View\Helper\SessionHelper.php, line 30]
+2018-07-04 14:41:44 Error: [FatalErrorException] Class 'AppHelper' not found
+Request URL: /sistema_test/admin
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Class 'AppHelpe...', 'C:\\xampp\\htdocs...', 30)
+#1 C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Core\App.php(970): ErrorHandler::handleError(1, 'Class 'AppHelpe...', 'C:\\xampp\\htdocs...', 30, Array)
+#2 C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2018-07-04 14:42:39 Error: [MissingControllerException] Controller class BackendController could not be found.
+Exception Attributes: array (
+  'class' => 'BackendController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/backend/css/bootstrap/bootstrap-select.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 14:42:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 14:42:51 Error: [MissingControllerException] Controller class BackendController could not be found.
+Exception Attributes: array (
+  'class' => 'BackendController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/backend/css/bootstrap/bootstrap-select.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 14:43:47 Error: [MissingControllerException] Controller class BackendController could not be found.
+Exception Attributes: array (
+  'class' => 'BackendController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/backend/css/bootstrap/bootstrap-select.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 14:43:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 14:44:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/css/bootstrap.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 14:44:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/css/font-awesome.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 14:44:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/js/jquery-1.11.3.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 14:44:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/js/bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 14:44:05 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/js/sitio.js
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 14:44:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/css/bootstrap.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 14:44:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/css/font-awesome.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 14:44:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/js/jquery-1.11.3.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 14:44:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/js/bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 14:44:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/js/sitio.js
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 14:44:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/js/jquery-1.11.3.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 14:44:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/js/bootstrap.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 14:44:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/js/sitio.js
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 14:44:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/js/sitio.js
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 14:44:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/js/sitio.js
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 14:44:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/js/sitio.js
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 14:44:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 14:44:37 Error: [MissingControllerException] Controller class BackendController could not be found.
+Exception Attributes: array (
+  'class' => 'BackendController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/backend/css/bootstrap/bootstrap-select.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 15:19:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/js/sitio.js
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 15:19:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 15:19:07 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 15:19:13 Error: [MissingControllerException] Controller class BackendController could not be found.
+Exception Attributes: array (
+  'class' => 'BackendController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/backend/css/bootstrap/bootstrap-select.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 15:19:19 Error: [MissingControllerException] Controller class BackendController could not be found.
+Exception Attributes: array (
+  'class' => 'BackendController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/backend/css/bootstrap/bootstrap-select.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 15:19:45 Error: [MissingControllerException] Controller class BackendController could not be found.
+Exception Attributes: array (
+  'class' => 'BackendController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/backend/css/bootstrap/bootstrap-select.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 15:19:51 Error: [MissingControllerException] Controller class BackendController could not be found.
+Exception Attributes: array (
+  'class' => 'BackendController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/backend/css/bootstrap/bootstrap-select.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 15:19:59 Error: [MissingControllerException] Controller class BackendController could not be found.
+Exception Attributes: array (
+  'class' => 'BackendController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/backend/css/bootstrap/bootstrap-select.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 15:20:10 Error: [MissingControllerException] Controller class BackendController could not be found.
+Exception Attributes: array (
+  'class' => 'BackendController',
+  'plugin' => NULL,
+)
+Request URL: /sistema_test/backend/css/bootstrap/bootstrap-select.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\webroot\index.php(85): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-07-04 15:20:10 Error: Fatal Error (256): [MissingViewException] View file "Errors\error500.ctp" is missing.
+#0 C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\View\View.php(470): View->_getViewFileName('Errors\\error500')
+#1 C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Error\ExceptionRenderer.php(328): View->render('error500', 'error')
+#2 C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Error\ExceptionRenderer.php(298): ExceptionRenderer->_outputMessageSafe('error500')
+#3 C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Error\ExceptionRenderer.php(300): ExceptionRenderer->_outputMessage('error500')
+#4 C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Error\ExceptionRenderer.php(236): ExceptionRenderer->_outputMessage('error400')
+#5 C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Error\ExceptionRenderer.php(190): ExceptionRenderer->error400(Object(MissingControllerException))
+#6 C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Error\ErrorHandler.php(127): ExceptionRenderer->render()
+#7 [internal function]: ErrorHandler::handleException(Object(MissingControllerException))
+#8 {main} in [C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Error\ErrorHandler.php, line 138]
+2018-07-04 15:20:10 Error: Fatal Error (1): Uncaught InternalErrorException: Internal Server Error in C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Error\ErrorHandler.php:261
+Stack trace:
+#0 C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(256, '[MissingViewExc...', 'C:\\xampp\\htdocs...', 138)
+#1 [internal function]: ErrorHandler::handleError(256, '[MissingViewExc...', 'C:\\xampp\\htdocs...', 138, Array)
+#2 C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Error\ErrorHandler.php(138): trigger_error('[MissingViewExc...', 256)
+#3 [internal function]: ErrorHandler::handleException(Object(MissingControllerException))
+#4 {main}
+  thrown in [C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Error\ErrorHandler.php, line 261]
+2018-07-04 15:20:10 Error: [InternalErrorException] Internal Server Error
+Request URL: /sistema_test/backend/css/bootstrap/bootstrap-select.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Uncaught Intern...', 'C:\\xampp\\htdocs...', 261)
+#1 C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Core\App.php(970): ErrorHandler::handleError(1, 'Uncaught Intern...', 'C:\\xampp\\htdocs...', 261, Array)
+#2 C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2018-07-04 15:20:10 Error: Fatal Error (256): [MissingViewException] View file "Errors\error500.ctp" is missing.
+#0 C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\View\View.php(470): View->_getViewFileName('Errors\\error500')
+#1 C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Error\ExceptionRenderer.php(328): View->render('error500', 'error')
+#2 C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Error\ExceptionRenderer.php(298): ExceptionRenderer->_outputMessageSafe('error500')
+#3 C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Error\ExceptionRenderer.php(260): ExceptionRenderer->_outputMessage('error500')
+#4 C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Error\ExceptionRenderer.php(190): ExceptionRenderer->error500(Object(InternalErrorException))
+#5 C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Error\ErrorHandler.php(127): ExceptionRenderer->render()
+#6 C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Error\ErrorHandler.php(269): ErrorHandler::handleException(Object(InternalErrorException))
+#7 C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Uncaught Intern...', 'C:\\xampp\\htdocs...', 261)
+#8 C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Core\App.php(970): ErrorHandler::handleError(1, 'Uncaught Intern...', 'C:\\xampp\\htdocs...', 261, Array)
+#9 C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#10 [internal function]: App::shutdown()
+#11 {main} in [C:\xampp\htdocs\sistema_test\Cake\2.10.4\lib\Cake\Error\ErrorHandler.php, line 138]

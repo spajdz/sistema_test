@@ -7,7 +7,7 @@ class DATABASE_CONFIG
 		'host'			=> 'localhost',
 		'login'			=> 'root',
 		'password'		=> '',
-		'database'		=> 'sistema_test',
+		'database'		=> 'sistema_test2',
 		'prefix'		=> '',
 		'encoding'		=> 'utf8',
 		'port'			=> 3307
